@@ -25,6 +25,10 @@ jobs:
   - script: pip install -r requirements.txt
     workingDirectory: $(pythonWorkingDir)
     displayName: 'Install requirements'
+    
+  - script: pip install msrestazure
+   workingDirectory: $(pythonWorkingDir)
+   displayName: 'Install requirements msrestazure'
 
   - script: pytest
     workingDirectory: $(pythonWorkingDir)
