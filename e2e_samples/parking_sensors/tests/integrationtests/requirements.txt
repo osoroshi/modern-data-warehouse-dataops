@@ -13,5 +13,6 @@ autopep8
 azure-mgmt-resource
 azure-mgmt-datafactory
 azure-storage-blob
+azure-mgmt-compute
 pyodbc
 msrestazure
