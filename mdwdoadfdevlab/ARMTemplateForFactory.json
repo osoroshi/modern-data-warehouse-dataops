@@ -37,7 +37,7 @@
 		},
 		"Ls_AzureDatabricks_01_properties_typeProperties_domain": {
 			"type": "string",
-			"defaultValue": "https://adb-4771384642912576.16.azuredatabricks.net"
+			"defaultValue": "https://adb-7769536740134118.18.azuredatabricks.net"
 		},
 		"Ls_AzureSQLDW_01_properties_typeProperties_connectionString_secretName": {
 			"type": "string",
@@ -325,7 +325,7 @@
 					}
 				},
 				"annotations": [],
-				"lastPublishTime": "2021-01-19T06:21:58Z"
+				"lastPublishTime": "2021-01-19T22:45:13Z"
 			},
 			"dependsOn": [
 				"[concat(variables('factoryId'), '/linkedServices/Ls_AzureDatabricks_01')]",
