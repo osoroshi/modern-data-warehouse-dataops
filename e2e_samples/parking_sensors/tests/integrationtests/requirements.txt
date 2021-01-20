@@ -10,9 +10,8 @@ pytest-runner
 pytest-adf
 tox
 autopep8
-azure-mgmt-resource
-azure-mgmt-datafactory
+azure-mgmt-resource==10.2.0
+azure-mgmt-datafactory==0.8.0
 azure-storage-blob
-azure-mgmt-compute
 pyodbc
 msrestazure
