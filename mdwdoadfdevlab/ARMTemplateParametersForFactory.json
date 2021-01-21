@@ -27,7 +27,7 @@
 			"value": "https://mdwdostordevlab.dfs.core.windows.net"
 		},
 		"Ls_AzureDatabricks_01_properties_typeProperties_domain": {
-			"value": "https://adb-7769536740134118.18.azuredatabricks.net"
+			"value": "https://adb-4728738940651598.18.azuredatabricks.net"
 		},
 		"Ls_AzureSQLDW_01_properties_typeProperties_connectionString_secretName": {
 			"value": "sqldwConnectionString"
